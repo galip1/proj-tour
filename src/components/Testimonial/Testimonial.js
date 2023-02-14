@@ -55,6 +55,34 @@ const Testimonial = () => {
         <div className="d-flex align-items-center gap-4 mt-3">
           <img src={ava02} alt="" className="w-25 h-25 rounded-2" />
           <div>
+            <h6 className="mb-0">Lia</h6>
+            <p>Customer</p>
+          </div>
+        </div>
+      </div>
+      <div className="testimonial py-4 px-3">
+        <p>
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam,
+          vitae deserunt cupiditate laboriosam placeat omnis labore voluptates
+          eveniet fugit beatae.
+        </p>
+        <div className="d-flex align-items-center gap-4 mt-3">
+          <img src={ava03} alt="" className="w-25 h-25 rounded-2" />
+          <div>
+            <h6 className="mb-0">Jhon Doe</h6>
+            <p>Customer</p>
+          </div>
+        </div>
+      </div>
+      <div className="testimonial py-4 px-3">
+        <p>
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam,
+          vitae deserunt cupiditate laboriosam placeat omnis labore voluptates
+          eveniet fugit beatae.
+        </p>
+        <div className="d-flex align-items-center gap-4 mt-3">
+          <img src={ava03} alt="" className="w-25 h-25 rounded-2" />
+          <div>
             <h6 className="mb-0">Jhon Doe</h6>
             <p>Customer</p>
           </div>
